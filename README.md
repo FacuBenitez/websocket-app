@@ -18,8 +18,6 @@ Este proyecto previamente inicializado tiene todo lo necesario para trabajar con
 - **WebSocket** para comunicación bidireccional en tiempo real entre el servidor y los clientes.
 - **Frontend** desarrollado con Vanilla JavaScript, sin frameworks.
 - **Arquitectura modular** con separación de responsabilidades.
-- **Manejo de errores** y logging.
-- **Documentación de la API** utilizando Swagger.
 
 ## Tecnologías utilizadas
 
